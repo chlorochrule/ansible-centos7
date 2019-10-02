@@ -1,0 +1,5 @@
+---
+# initialize CentOS 7
+- hosts: target
+  roles:
+    - common
